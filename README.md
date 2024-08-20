@@ -1,6 +1,6 @@
 ## About
 
-This is a Dark+ color theme for the neovim plugin [NvChad](https://github.com/NvChad/NvChad) since I noticed there wasn't one readily available.
+This is the Dark+ color theme from VS Code for the neovim plugin [NvChad](https://github.com/NvChad/NvChad) since I noticed there wasn't one readily available.
 
 This is about as accurate as it can be made since some of the colors in VS Code are due to the pylance LSP being more extensible than pyright, so things like imports take on the color of variables rather than modules, for instance.
 
